@@ -2,7 +2,6 @@
 title: Hello Hexo
 categories: 
 - 小记
-- description: 因为我的铸币操作，导致原来的wordpress博客存档被删了，现在这边使用hexo重新在github上配置一下。用来记录一些学习内容和生活轶事，寥绘吾行，寥述己志。
 ---
 
 因为我的铸币操作，导致原来的wordpress博客存档被删了，现在这边使用hexo重新在github上配置一下。用来记录一些学习内容和生活轶事，寥绘吾行，寥述己志。
